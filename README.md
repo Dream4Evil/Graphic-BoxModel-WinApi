@@ -4,4 +4,4 @@
 
 Boxy mają ustawione domyślnie "position:relative". Jest możliwe też tworzenie boxów w "position: absolute". Następnym krokiem będzie dodanie przybornika z wyborem narzędzi innych niż same divy - tekstu, nagłówków, zdjęć itd. Później dodana zostanie możliwość ustawiania właściwości divów - padding, margin, obramowanie, itd.
 
-Jest to BARDZO wczesna wersja alfa. 
+Jest to BARDZO wczesna wersja alfa. Aktualnie dostępne są tylko zdjęcia poglądowe działania programu.
